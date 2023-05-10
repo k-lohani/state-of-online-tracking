@@ -1,9 +1,9 @@
 ﻿# Introduction
-Have you ever seen yourself surfing Amazon for headphones, and now every page you visit offers advertisements for headphones
-Nowadays, trackers are incorporated on websites. These trackers collect data under the pretense of improving the user experience. They are, however, used to profile a user's attributes and behaviors by analyzing location history, browsing history, and other data to deduce your gender, ethnicity, interests, and habits.
-This online profile is then used for targeted advertising.
-In this poster, we have tried to decode these trackers' usage, the websites that use them, and the organization that operates them.
-Policymakers can use this study to design laws for online tracking. Another application could be to develop sophisticated tracker blockers.
+- Have you ever seen yourself surfing Amazon for headphones, and now every page you visit offers advertisements for headphones
+- Nowadays, trackers are incorporated on websites. These trackers collect data under the pretense of improving the user experience. They are, however, used to profile a user's attributes and behaviors by analyzing location history, browsing history, and other data to deduce your gender, ethnicity, interests, and habits.
+- This online profile is then used for targeted advertising.
+- In this poster, we have tried to decode these trackers' usage, the websites that use them, and the organization that operates them.
+- Policymakers can use this study to design laws for online tracking. Another application could be to develop sophisticated tracker blockers.
 
 # Data
 The data for this study is self collected using the DuckDuckGo Privacy Essentials Chrome Extension, and [DuckDuckGo Tracking Radar](https://github.com/duckduckgo/tracker-radar).
