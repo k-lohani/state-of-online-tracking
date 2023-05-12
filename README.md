@@ -6,7 +6,9 @@
 - Policymakers can use this study to design laws for online tracking. Another application could be to develop sophisticated tracker blockers.
 
 # Data
-The data for this study is self collected using the DuckDuckGo Privacy Essentials Chrome Extension, and [DuckDuckGo Tracking Radar](https://github.com/duckduckgo/tracker-radar).
+- The data for this study is self collected using the DuckDuckGo Privacy Essentials Chrome Extension, and [DuckDuckGo Tracking Radar](https://github.com/duckduckgo/tracker-radar).
+- A final copy of the data can be found [here](https://www.kaggle.com/datasets/kaustubhlohani/trackers-on-popular-websites-105-countries?datasetId=3260291&sortBy=dateRun&tab=profile)
+
 
 # Data Collection
 ## Web Scraping:
